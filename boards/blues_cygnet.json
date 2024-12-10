@@ -4,7 +4,7 @@
       "extra_flags": "-DSTM32L4 -DSTM32L433xx",
       "f_cpu": "80000000L",
       "framework_extra_flags": {
-        "arduino": "-DCUSTOM_PERIPHERAL_PINS -DARDUINO_CYGNET"
+        "arduino": "-DCUSTOM_PERIPHERAL_PINS -DARDUINO_CYGNET -DPIO_FRAMEWORK_ARDUINO_ENABLE_CDC"
       },
       "mcu": "stm32l433cct6",
       "product_line": "STM32L433xx",
