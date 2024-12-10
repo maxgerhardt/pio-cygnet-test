@@ -6,12 +6,6 @@
       "framework_extra_flags": {
         "arduino": "-DCUSTOM_PERIPHERAL_PINS -DARDUINO_CYGNET"
       },
-      "hwids": [
-        [
-          "0x30A4",
-          "0x0003"
-        ]
-      ],
       "mcu": "stm32l433cct6",
       "product_line": "STM32L433xx",
       "variant": "STM32L4xx/L433C(B-C)(T-U)_L443CC(T-U)"
